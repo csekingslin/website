@@ -1,0 +1,33 @@
+html is a building block of webpage(structure or blueprint).its contains basic tags and arguments.
+html stands for hypertext markup language and is used to create webpages.
+
+hyper text - text will take to other pages
+markup     - text document to control formating structure
+
+html tags:
+
+<!-- -->          - comments add
+<!doctype html>   - declartion of html5 documents
+<head>            - its contain java script and css link and title
+<body>            - its visible part of webpage
+<title>           - www. google .com
+<center>          - alignment of center part
+<h1 - h6>         - heading tags
+<p>               - paragraph tags (the browser automatically removing extra spaces and lines)
+<a href=""> </a>  - anchor tags
+<img src="">      - image tags
+<hr>              - horizontal line
+<pre>             - pre formating text (the browser cannot removing extra spaces and lines)
+<bold><strong><b> - bolding text its used for importance sentences
+<i><em>           - italic tag
+<sub><sup>        - subscript and superscript
+<mark>            - highlighting yellow 
+<del>             - removing price
+<ins>             - inserting price (with underline)
+<address>         - similar to italic tag
+<q>               - double quatation tag
+colors            - orange,gray,tomato,light gray,slateblue
+< p title=""></p> - about information
+<q>               - double short quatation mark adding
+<blackquote>      - large quate present the webpage
+
